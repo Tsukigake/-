@@ -2,9 +2,15 @@
 
 _月駆が作ったシロコのコスプレで使う小物とかのデータ置き場_
 
+## ん、中にあるデータ
+
+・シロコのヘアピン
+
 ## ん、利用について
 
 MITライセンスを守ってほしい。利用は自由！
+
+ライセンス全文 : https://opensource.org/license/mit
 
 ライセンス全文（日本語訳）：https://licenses.opensource.jp/MIT/MIT.html
 
