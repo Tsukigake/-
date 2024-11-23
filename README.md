@@ -32,6 +32,6 @@ githubわかんないーってひとは twitter(x) の dm　　
 
 ## ん、コンタクト
 
-・https://x.com/tsukigake_cos &nbsp; @tsukigake_cos
+・twitter(x) &nbsp; https://x.com/tsukigake_cos &nbsp; @tsukigake_cos
 
 
