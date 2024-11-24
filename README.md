@@ -14,16 +14,6 @@ MITライセンスを守ってほしい。利用は自由！
 
 ライセンス全文（日本語訳）：https://licenses.opensource.jp/MIT/MIT.html
 
----
-
-Copyright (c) 2024 @tsukigake_cos, @tsukigake829 (X username)
-
-Released under the MIT license
-
-https://opensource.org/licenses/mit-license.php
-
----
-
 ## ん、データの使い方
 
 3Dプリンターとかレーザー加工機で使えるデータだよ！
@@ -43,5 +33,15 @@ githubわかんないーってひとは twitter(x) の dm　　
 ## ん、コンタクト
 
 ・twitter(x) &nbsp; https://x.com/tsukigake_cos &nbsp; @tsukigake_cos
+
+---
+
+Copyright (c) 2024 @tsukigake_cos, @tsukigake829 (X username)
+
+Released under the MIT license
+
+https://opensource.org/licenses/mit-license.php
+
+---
 
 
