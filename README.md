@@ -38,7 +38,7 @@ githubわかんないーってひとは twitter(x) の dm　　
 
 ---
 
-Copyright (c) 2024 @tsukigake_cos, @tsukigake829 (X username)
+Copyright (c) 2024 @tsukigake_cos, @tsukigake829 (x.com username)
 
 Released under the MIT license
 
